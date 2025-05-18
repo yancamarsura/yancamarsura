@@ -1,7 +1,8 @@
 ### Olá, me chamo Yanca👋
 
-- 📚 Formada em processos Gerenciais, curso profissionalizante em Programação Web pelo CPS.
-- 🌱 Tenho muitos cursos em diversas áreas, no momento fazendo cursos na área da tecnologia como o desenvolvimento de jogos buscando me aperfeiçoar.
+- 📚 Formada em Processos Gerenciais, anteriormente tinha me interessado pela área de tecnologia e tinha feito um curso de Programação Web CPS , atualmente curso Técnico em Análise e Desenvolvimento de Sistemas pela FAT, também me formei recentemente em Técnico em Marketing pela Descomplica + UniAmérica e fiz Especialização Técnica em Gestão de Projetos pela Etec Martin Luther King. Acredito que todo conhecimento é importante para diversas áreas.
+
+- 🌱 Tenho muitos cursos em diversas áreas, no momento fazendo cursos na área da tecnologia e buscando me aperfeiçoar.
 
 - ## Conecte-se Comigo
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yancamarsura/)
