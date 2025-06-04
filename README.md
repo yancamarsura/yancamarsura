@@ -1,6 +1,6 @@
 ### Olá, me chamo Yanca👋
 
-- 📚 Formada em Processos Gerenciais, anteriormente tinha me interessado pela área de tecnologia e tinha feito um curso de Programação Web CPS , atualmente curso Técnico em Análise e Desenvolvimento de Sistemas pela FAT, também me formei recentemente em Técnico em Marketing pela Descomplica + UniAmérica e fiz Especialização Técnica em Gestão de Projetos pela Etec Martin Luther King. Acredito que todo conhecimento é importante para diversas áreas.
+- 📚 Formada em Processos Gerenciais, anteriormente tinha me interessado pela área de tecnologia e tinha feito um curso de Programação Web - Centro Paula Souza - CPS , atualmente curso Técnico em Análise e Desenvolvimento de Sistemas pela FAT, também me formei recentemente em Técnico em Marketing pela Descomplica + UniAmérica e fiz Especialização Técnica em Gestão de Projetos pela Etec Martin Luther King. Acredito que todo conhecimento é importante para diversas áreas.
 
 - 🌱 Tenho muitos cursos em diversas áreas, no momento fazendo cursos na área da tecnologia e buscando me aperfeiçoar.
 
